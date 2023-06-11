@@ -4,6 +4,7 @@ This repository contains an implementation of modern Multi-Layer Perceptron (MLP
 ## Dataset
 The dataset used for training and evaluation is a well-known benchmark dataset for image classification tasks. It consists of a large collection of labeled images representing various classes or categories. The dataset is preprocessed and split into a training set and a test set to assess the performance of the trained models.
 
+
 ## Models
 The repository includes implementations of the following modern MLP models:
 
