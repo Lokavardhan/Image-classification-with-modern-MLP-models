@@ -8,6 +8,7 @@ The dataset used for training and evaluation is a well-known benchmark dataset f
 ## Models
 The repository includes implementations of the following modern MLP models:
 
+
 1. DenseNet: A deep neural network architecture that utilizes densely connected layers to capture rich features and enable effective information flow within the network.
 2. ResNet: A popular deep neural network architecture that employs residual connections to enable the training of very deep networks while mitigating the vanishing gradient problem.
 3. EfficientNet: A state-of-the-art neural network architecture that optimizes both model depth and width to achieve high accuracy while maintaining computational efficiency.
